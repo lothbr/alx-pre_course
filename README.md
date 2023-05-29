@@ -1,1 +1,3 @@
-My first readme
+Workig with some code structure
+
+Alx software engineering 
